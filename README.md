@@ -4,6 +4,7 @@
 
 The **Diyar Custom Theme** is a custom-built WordPress theme designed to deliver a tailored and optimized experience for Diyar projects. This theme focuses on responsiveness, accessibility, and seamless integration with WordPress features, ensuring a rich user experience.
 
+![](./screenshot.png)
 ---
 
 ## Features
